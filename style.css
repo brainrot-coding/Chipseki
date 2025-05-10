@@ -123,3 +123,36 @@ color: #444;
     font-size: 20px;
     background-color: white;
 }
+
+.chipsi{
+    background-color: #B1464A;
+}
+.bigtxt{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 600%;
+}
+.tri_hreni_kotorie_nado_po_centru_sdelat_emoe{
+    background-color: #B1464A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.left_hernya{
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: auto;
+}
+.txtAndStrelka{
+    color: white;
+}
+.lays{
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+.right_hernya{
+    color: white;
+}
